@@ -1,5 +1,9 @@
 import React from "react";
 import Image from "next/image";
+import chair1 from '../public/chair1.png';
+
+<Image src={chair1} alt="Chair 1" width={300} height={200} />;
+
 
 const featured = () => {
   const products = [

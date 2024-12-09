@@ -1,4 +1,9 @@
 import React from "react";
+import Image from "next/image";
+import zapierLogo from "../public/zapier.png";
+
+
+
 
 const Banner = () => {
   return (
